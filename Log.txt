@@ -1,0 +1,7 @@
+Log has started
+Program started
+Persoana noau cu Ci vechi
+Persoana noau creata
+GetCNP called
+getAge called
+getAge called
